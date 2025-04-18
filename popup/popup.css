@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+html, body
+{
+    width: 150px;
+    height: 120px;
+}
+
+a {
+    color: #80A1C0;
+    font-weight: bold;  
+}
+
+#popup-menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(46, 52, 64);
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+
+.hide {
+    display: none;
+}
